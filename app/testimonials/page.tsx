@@ -315,7 +315,7 @@ export default function TestimonialsPage() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
               <div className="overflow-hidden rounded-lg">
                 <Image
-                  src="/review1.png?height=300&width=300&text=Student+Eating+Lunch"
+                  src="/reiview1.png?height=300&width=300&text=Student+Eating+Lunch"
                   width={300}
                   height={300}
                   alt="Student enjoying BoxBites meal in campus cafeteria"
