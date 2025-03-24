@@ -104,7 +104,7 @@ export default function MenuPage() {
                 <h3 className="text-xl font-bold">Main Course</h3>
                 <p className="text-center text-gray-600">Rice/Roti + Curry/Protein</p>
                 <Image
-                  src="/placeholder.svg?height=200&width=300&text=Rice+and+Butter+Chicken+Curry"
+                  src="/maincourse1.png?height=200&width=300&text=Rice+and+Butter+Chicken+Curry"
                   width={300}
                   height={200}
                   alt="Main course meal with rice and curry"
@@ -118,7 +118,7 @@ export default function MenuPage() {
                 <h3 className="text-xl font-bold">Side Dish/Salad</h3>
                 <p className="text-center text-gray-600">Rotates daily for variety</p>
                 <Image
-                  src="/placeholder.svg?height=200&width=300&text=Fresh+Garden+Salad+with+Dressing"
+                  src="/salad.png?height=200&width=300&text=Fresh+Garden+Salad+with+Dressing"
                   width={300}
                   height={200}
                   alt="Fresh side salad"
@@ -132,7 +132,7 @@ export default function MenuPage() {
                 <h3 className="text-xl font-bold">Pickle/Dessert</h3>
                 <p className="text-center text-gray-600">On rotation for variety</p>
                 <Image
-                  src="/placeholder.svg?height=200&width=300&text=Gulab+Jamun+Dessert"
+                  src="/dessert.png?height=200&width=300&text=Gulab+Jamun+Dessert"
                   width={300}
                   height={200}
                   alt="Sweet dessert option"
@@ -154,7 +154,7 @@ export default function MenuPage() {
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
               <div className="overflow-hidden rounded-lg shadow-md">
                 <Image
-                  src="/placeholder.svg?height=300&width=400&text=North+Indian+Thali+with+Roti+and+Paneer"
+                  src="/northindian.png?height=300&width=400&text=North+Indian+Thali+with+Roti+and+Paneer"
                   width={400}
                   height={300}
                   alt="North Indian Thali with roti and paneer"
@@ -166,7 +166,7 @@ export default function MenuPage() {
               </div>
               <div className="overflow-hidden rounded-lg shadow-md">
                 <Image
-                  src="/placeholder.svg?height=300&width=400&text=South+Indian+Meal+with+Dosa+and+Sambar"
+                  src="/southindian.png?height=300&width=400&text=South+Indian+Meal+with+Dosa+and+Sambar"
                   width={400}
                   height={300}
                   alt="South Indian meal with rice and sambar"
@@ -178,7 +178,7 @@ export default function MenuPage() {
               </div>
               <div className="overflow-hidden rounded-lg shadow-md">
                 <Image
-                  src="/placeholder.svg?height=300&width=400&text=Chinese+Fusion+Hakka+Noodles"
+                  src="/chinese.png?height=300&width=400&text=Chinese+Fusion+Hakka+Noodles"
                   width={400}
                   height={300}
                   alt="Chinese fusion meal with noodles"
@@ -190,7 +190,7 @@ export default function MenuPage() {
               </div>
               <div className="overflow-hidden rounded-lg shadow-md">
                 <Image
-                  src="/placeholder.svg?height=300&width=400&text=Continental+Pasta+Box"
+                  src="/continental.png?height=300&width=400&text=Continental+Pasta+Box"
                   width={400}
                   height={300}
                   alt="Continental meal box with pasta"
@@ -202,7 +202,7 @@ export default function MenuPage() {
               </div>
               <div className="overflow-hidden rounded-lg shadow-md">
                 <Image
-                  src="/placeholder.svg?height=300&width=400&text=High+Protein+Chicken+Bowl"
+                  src="/nonveg.png?height=300&width=400&text=High+Protein+Chicken+Bowl"
                   width={400}
                   height={300}
                   alt="High protein meal with chicken"
@@ -214,7 +214,7 @@ export default function MenuPage() {
               </div>
               <div className="overflow-hidden rounded-lg shadow-md">
                 <Image
-                  src="/placeholder.svg?height=300&width=400&text=Vegan+Vegetable+Curry+Bowl"
+                  src="/vegan.png?height=300&width=400&text=Vegan+Vegetable+Curry+Bowl"
                   width={400}
                   height={300}
                   alt="Vegan meal with fresh vegetables"
@@ -226,7 +226,7 @@ export default function MenuPage() {
               </div>
               <div className="overflow-hidden rounded-lg shadow-md">
                 <Image
-                  src="/placeholder.svg?height=300&width=400&text=Jain+Special+No+Onion+Garlic"
+                  src="/jain.png?height=300&width=400&text=Jain+Special+No+Onion+Garlic"
                   width={400}
                   height={300}
                   alt="Jain special meal without onion and garlic"
@@ -238,7 +238,7 @@ export default function MenuPage() {
               </div>
               <div className="overflow-hidden rounded-lg shadow-md">
                 <Image
-                  src="/placeholder.svg?height=300&width=400&text=Assorted+Indian+Desserts"
+                  src="/dessert.png?height=300&width=400&text=Assorted+Indian+Desserts"
                   width={400}
                   height={300}
                   alt="Assortment of desserts"
@@ -311,7 +311,7 @@ export default function MenuPage() {
               <TabsContent value="veg" className="p-4 bg-white rounded-lg mt-4 border">
                 <div className="flex flex-col md:flex-row gap-4 items-center">
                   <Image
-                    src="/placeholder.svg?height=300&width=300&text=Paneer+Butter+Masala+and+Naan"
+                    src="/veggroup.png?height=300&width=300&text=Paneer+Butter+Masala+and+Naan"
                     width={300}
                     height={300}
                     alt="Vegetarian meal options"
@@ -336,7 +336,7 @@ export default function MenuPage() {
               <TabsContent value="non-veg" className="p-4 bg-white rounded-lg mt-4 border">
                 <div className="flex flex-col md:flex-row gap-4 items-center">
                   <Image
-                    src="/placeholder.svg?height=300&width=300&text=Butter+Chicken+with+Naan"
+                    src="/nonveggroup.png?height=300&width=300&text=Butter+Chicken+with+Naan"
                     width={300}
                     height={300}
                     alt="Non-vegetarian meal options"
@@ -361,7 +361,7 @@ export default function MenuPage() {
               <TabsContent value="jain" className="p-4 bg-white rounded-lg mt-4 border">
                 <div className="flex flex-col md:flex-row gap-4 items-center">
                   <Image
-                    src="/placeholder.svg?height=300&width=300&text=Jain+Paneer+Masala+No+Onion+Garlic"
+                    src="/jaingroup.png?height=300&width=300&text=Jain+Paneer+Masala+No+Onion+Garlic"
                     width={300}
                     height={300}
                     alt="Jain meal options"
