@@ -333,55 +333,10 @@ export default function TestimonialsPage() {
               </div>
               <div className="overflow-hidden rounded-lg">
                 <Image
-                  src="/review1.png?height=300&width=300&text=Student+in+Dorm+Room"
-                  width={300}
-                  height={300}
-                  alt="Student enjoying BoxBites meal in dorm room"
-                  className="w-full h-auto object-cover aspect-square"
-                />
-              </div>
-              <div className="overflow-hidden rounded-lg">
-                <Image
-                  src="/review2.png?height=300&width=300&text=Student+Studying+with+Meal"
-                  width={300}
-                  height={300}
-                  alt="Student studying while eating BoxBites meal"
-                  className="w-full h-auto object-cover aspect-square"
-                />
-              </div>
-              <div className="overflow-hidden rounded-lg">
-                <Image
                   src="/review3.png?height=300&width=300&text=Library+Lunch+Break"
                   width={300}
                   height={300}
                   alt="Student taking a lunch break with BoxBites in library"
-                  className="w-full h-auto object-cover aspect-square"
-                />
-              </div>
-              <div className="overflow-hidden rounded-lg">
-                <Image
-                  src="/placeholder.svg?height=300&width=300&text=Campus+Outdoor+Meal"
-                  width={300}
-                  height={300}
-                  alt="Student enjoying BoxBites meal outdoors on campus"
-                  className="w-full h-auto object-cover aspect-square"
-                />
-              </div>
-              <div className="overflow-hidden rounded-lg">
-                <Image
-                  src="/placeholder.svg?height=300&width=300&text=Delivery+Handoff"
-                  width={300}
-                  height={300}
-                  alt="BoxBites delivery person handing meal to student"
-                  className="w-full h-auto object-cover aspect-square"
-                />
-              </div>
-              <div className="overflow-hidden rounded-lg">
-                <Image
-                  src="/placeholder.svg?height=300&width=300&text=Happy+Student+Selfie"
-                  width={300}
-                  height={300}
-                  alt="Student taking selfie with BoxBites meal"
                   className="w-full h-auto object-cover aspect-square"
                 />
               </div>
