@@ -315,7 +315,7 @@ export default function TestimonialsPage() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
               <div className="overflow-hidden rounded-lg">
                 <Image
-                  src="/placeholder.svg?height=300&width=300&text=Student+Eating+Lunch"
+                  src="/review1.png?height=300&width=300&text=Student+Eating+Lunch"
                   width={300}
                   height={300}
                   alt="Student enjoying BoxBites meal in campus cafeteria"
@@ -324,7 +324,7 @@ export default function TestimonialsPage() {
               </div>
               <div className="overflow-hidden rounded-lg">
                 <Image
-                  src="/placeholder.svg?height=300&width=300&text=Group+Lunch+with+BoxBites"
+                  src="/review2.png?height=300&width=300&text=Group+Lunch+with+BoxBites"
                   width={300}
                   height={300}
                   alt="Group of students sharing BoxBites meals"
@@ -333,7 +333,7 @@ export default function TestimonialsPage() {
               </div>
               <div className="overflow-hidden rounded-lg">
                 <Image
-                  src="/placeholder.svg?height=300&width=300&text=Student+in+Dorm+Room"
+                  src="/review1.png?height=300&width=300&text=Student+in+Dorm+Room"
                   width={300}
                   height={300}
                   alt="Student enjoying BoxBites meal in dorm room"
@@ -342,7 +342,7 @@ export default function TestimonialsPage() {
               </div>
               <div className="overflow-hidden rounded-lg">
                 <Image
-                  src="/placeholder.svg?height=300&width=300&text=Student+Studying+with+Meal"
+                  src="/review2.png?height=300&width=300&text=Student+Studying+with+Meal"
                   width={300}
                   height={300}
                   alt="Student studying while eating BoxBites meal"
@@ -351,7 +351,7 @@ export default function TestimonialsPage() {
               </div>
               <div className="overflow-hidden rounded-lg">
                 <Image
-                  src="/placeholder.svg?height=300&width=300&text=Library+Lunch+Break"
+                  src="/review3.png?height=300&width=300&text=Library+Lunch+Break"
                   width={300}
                   height={300}
                   alt="Student taking a lunch break with BoxBites in library"
