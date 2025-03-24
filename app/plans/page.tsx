@@ -212,7 +212,7 @@ export default function PlansPage() {
             <div className="flex flex-col md:flex-row items-center gap-8 p-6 bg-white rounded-lg border shadow-md">
               <div className="md:w-1/3">
                 <Image
-                  src="/placeholder.svg?height=300&width=300&text=3+Meal+Variety+Starter+Pack"
+                  src="/plans.png?height=300&width=300&text=3+Meal+Variety+Starter+Pack"
                   width={300}
                   height={300}
                   alt="BoxBites Starter Pack with 3 different meals"
